@@ -10,3 +10,7 @@ Find the best strategies to improve for the next marketing campaign. How can the
 
 # Source
 [Moro et al., 2014] S. Moro, P. Cortez and P. Rita. A Data-Driven Approach to Predict the Success of Bank Telemarketing. Decision Support Systems, Elsevier, 62:22-31, June 2014
+<br><br><br>
+
+# Calculation
+![image](https://github.com/zaid105/Bank-Marketing/assets/142628044/796a0d61-eda2-4e12-a8be-27522567fde4)
